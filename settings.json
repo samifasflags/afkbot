@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mszrp.aternos.me",
-    "port": 63265,
+    "ip": "almoustakbal2smp.aternos.me",
+    "port": 63095,
     "version": "",
     "try-creative": false
   },
